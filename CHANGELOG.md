@@ -1,5 +1,12 @@
 # skuba
 
+## 3.14.3
+
+### Patch Changes
+
+- 1216a45: **deps:** ts-node-dev 1.1.8
+- e9375b2: **deps:** TypeScript 4.3.5
+
 ## 3.14.2
 
 ### Patch Changes
